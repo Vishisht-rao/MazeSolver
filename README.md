@@ -1,3 +1,3 @@
 # MazeSolver
-Maze Solver using Q-Learning with multiple agents using the concept of threading.
-We have used the concept of threading to create multiple agents.
+Reinforcement learning is a subset of machine learning wherein agents have no prior knowledge of the environment but learn progressively as a result of rewards given to them when they perform an action that would lead them to complete a given task. Q-learning is an algorithm in reinforcement learning which employs a Q-Table to determine the total reward an agent may obtain by performing an action in any given state. This paper shows how the maze problem can be solved in a more efficient manner by employing multiple agents using the concept of threading. The agents cooperate with each other by updating values to a shared Q-Table.
+
